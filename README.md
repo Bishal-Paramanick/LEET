@@ -16,6 +16,7 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 
 * **Java** ☕
 * **SQL** 🗄️
+* **JavaScript** 📜
 
 ---
 
