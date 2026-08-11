@@ -4,6 +4,20 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 
 ---
 
+## 🏆 Milestone: 200+ Problems Solved
+
+I have successfully solved **200+ LeetCode problems** spanning a wide variety of key computer science topics, including:
+
+- **Arrays**
+- **Strings**
+- **Binary Search**
+- **Sorting**
+- **Linked Lists**
+- **Stack & Queue**
+- **Recursion**
+
+---
+
 ## 📌 Features
 
 * **Automated Sync:** Solutions are automatically pushed upon successful submission.
@@ -22,7 +36,9 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 
 ## 📊 Progress Tracker
 
-
+<p align="center">
+  <img src="https://leetcode-stats-badge.herokuapp.com/?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" />
+</p>
 
 ---
 
