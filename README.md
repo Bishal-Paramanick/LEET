@@ -37,9 +37,10 @@ I have successfully solved **200+ LeetCode problems** spanning a wide variety of
 ## 📊 Progress Tracker
 
 <p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/YOUR_LEETCODE_USERNAME" alt="LeetCode Stats" />
+  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Solved" />
+  <img src="https://img.shields.io/badge/Languages-Java%20%7C%20SQL%20%7C%20JS-blue?style=for-the-badge&logo=java" alt="Languages" />
 </p>
----
+--
 
 ## 🔗 Sync Tool
 
