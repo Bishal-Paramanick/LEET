@@ -37,9 +37,8 @@ I have successfully solved **200+ LeetCode problems** spanning a wide variety of
 ## 📊 Progress Tracker
 
 <p align="center">
-  <img src="https://leetcode-stats-badge.herokuapp.com/?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-api.herokuapp.com/YOUR_LEETCODE_USERNAME" alt="LeetCode Stats" />
 </p>
-
 ---
 
 ## 🔗 Sync Tool
