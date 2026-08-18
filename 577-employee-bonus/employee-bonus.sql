@@ -9,3 +9,4 @@ LEFT JOIN
 WHERE 
     b.bonus < 1000 
     OR b.bonus IS NULL;
+    
